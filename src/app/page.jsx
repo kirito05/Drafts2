@@ -147,7 +147,7 @@ export default function Formulation() {
                 </div>
               </div>
               <div className="w-4/5 text-2xl font-normal mb-10"></div>
-              <div className="grid grid-cols-4 gap-4 xl:mr-[25.5em] lg:mr-[14em]">
+              <div className="grid grid-cols-4 gap-4 xl:mr-[23em] lg:mr-[14em]">
                 {outcome.map((img, index) => (
                   <div key={index} className="relative">
                     <span

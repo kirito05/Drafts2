@@ -15,7 +15,7 @@ function FooterImgCard({ memberName, role,pic,publicProfile }) {
         <Image
           src={pic}
           alt="member photo"
-          className="xl:h-[30vh] xl:w-[20em] lg:w-[10em] lg:h-[25vh] md:h-[15vh] md:w-[15em] sm:h-[15vh] sm:w-[15em]"
+          className="xl:h-[30vh] xl:w-[18em] lg:w-[10em] lg:h-[25vh] md:h-[15vh] md:w-[15em] sm:h-[15vh] sm:w-[15em]"
           style={{borderRadius:"20em"}}
         />
       <div className="xl:text-3xl lg:text-xl hover:scale-105 absolute bg-white bg-opacity-75 xl:bottom-10 lg:bottom-4 w-[10em] overflow-hidden text-center h-10 ">
