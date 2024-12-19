@@ -74,8 +74,8 @@ export default function Formulation() {
                   1
                 </div>
 
-                <div className="w-[10em] font-serif xl:text-5xl lg:text-3xl md:text-2xl ">
-                  Question/Challenges{" "}
+                <div className="font-serif xl:text-5xl lg:text-3xl md:text-2xl ">
+                  What Barriers Did We Overcome to Achieve Success?{" "}
                 </div>
               </div>
               <div className="md:text-lg lg:text-xl xl:text-3xl ">
@@ -109,9 +109,9 @@ export default function Formulation() {
                   2
                 </div>
 
-                <div className="w-[15em] xl:text-5xl lg:text-3xl md:text-2xl font-serif ">
+                <div className="xl:text-5xl lg:text-3xl md:text-2xl font-serif ">
                   {" "}
-                  Approach to the Solution
+                  Crafting a Tailored Strategy for Success
                 </div>
               </div>
 
@@ -141,9 +141,9 @@ export default function Formulation() {
                   3
                 </div>
 
-                <div className="w-[10em] xl:text-5xl lg:text-3xl md:text-2xl font-serif ">
+                <div className="xl:text-5xl lg:text-3xl md:text-2xl font-serif ">
                   {" "}
-                  Outcome{" "}
+                  The Results That Redefined Standards{" "}
                 </div>
               </div>
               <div className="w-4/5 text-2xl font-normal mb-10"></div>
@@ -172,7 +172,7 @@ export default function Formulation() {
                   4
                 </div>
 
-                <div className="w-[10em] xl:text-5xl lg:text-3xl md:text-2xl font-serif ">
+                <div className="xl:text-5xl lg:text-3xl md:text-2xl font-serif ">
                   {" "}
                   What Arcolab can do for you?
                 </div>
@@ -186,24 +186,29 @@ export default function Formulation() {
                 <br />
                 <br />
                 Here’s a streamlined approach Acrolab offers:
-                <ul className="flex flex-col justify-between items-start list-disc h-[25vh] lg:w-4/5 mt-5 mb-10">
-                  <li>
+                <ul className="flex flex-col justify-between items-start list-disc h-[30vh] lg:w-4/5 mt-5 mb-10 cursor-pointer">
+                  <li className="hover:shadow-lg hover:scale-105 p-2">
                     Team Formation: Assist in creating a cross-functional team
                     to lead the 5S initiative.
                   </li>
-                  <li>
+                  <li className="hover:shadow-lg hover:scale-105 p-2">
                     Training: Provide tailored training to ensure employees
                     understand 5S principles and benefits.
                   </li>
-                  <li>
+                  <li className="hover:shadow-lg hover:scale-105 p-2">
                     Pilot Projects: Start with a specific area, redesign it
                     using 5S, and set a benchmark for broader implementation.
                   </li>
-                  <li>
+                  <li className="hover:shadow-lg hover:scale-105 p-2">
                     Performance Tracking: Establish clear KPIs to measure waste
                     reduction, efficiency improvements, and safety enhancements.
                   </li>
-                  <li></li>
+                  <li className="hover:shadow-lg hover:scale-105 p-2">
+                    Sustained Excellence: Drive long-term success by integrating
+                    streamlined processes into daily operations, resulting in
+                    measurable improvements in efficiency, safety, and overall
+                    organizational performance.
+                  </li>
                 </ul>
                 By partnering with Acrolab, companies can streamline processes,
                 eliminate waste, and build{" "}
