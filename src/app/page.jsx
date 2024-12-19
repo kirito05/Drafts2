@@ -186,7 +186,7 @@ export default function Formulation() {
                 <br />
                 <br />
                 Here’s a streamlined approach Acrolab offers:
-                <ul className="flex flex-col justify-between items-start list-disc h-[30vh] lg:w-4/5 mt-5 mb-10 cursor-pointer">
+                <ul className="flex flex-col justify-between items-start list-disc h-[30vh] lg:w-4/5 mt-5 mb-[10em] cursor-pointer">
                   <li className="hover:shadow-lg hover:scale-105 p-2">
                     Team Formation: Assist in creating a cross-functional team
                     to lead the 5S initiative.
