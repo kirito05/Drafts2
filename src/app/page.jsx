@@ -70,7 +70,7 @@ export default function Formulation() {
           <article className="ml-[5em]">
             <section id="question">
               <div className="font-semibold xl:w-4/5 lg:w-4/5 mb-4 xl:h-[35vh] lg:h-[20vh] gap-[3em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
-                <div className="xl:text-[10em] lg:text-[6em] md:text-[4em] mb-3 opacity-80  ">
+                <div className="xl:text-[11em] lg:text-[6em] md:text-[4em] mb-3 opacity-80  ">
                   1
                 </div>
 
@@ -104,8 +104,8 @@ export default function Formulation() {
             <br />
             <br />
             <section id="approach">
-              <div className="text-3xl font-semibold  xl:w-4/5 lg:w-4/5 mb-4 xl:h-[35vh] lg:h-[20vh] gap-[3em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
-                <div className="xl:text-[10em] lg:text-[4em] md:text-[4em] mb-3 opacity-80  ">
+              <div className="text-3xl font-semibold  xl:w-4/5 lg:w-4/5 mb-4 xl:h-[35vh] lg:h-[20vh] gap-[1.5em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
+                <div className="xl:text-[8em] lg:text-[4em] md:text-[4em] mb-3 opacity-80  ">
                   2
                 </div>
 
@@ -136,8 +136,8 @@ export default function Formulation() {
             </div> */}
             </section>
             <section id="outcome">
-              <div className="text-3xl font-semibold mb-10  xl:w-4/5 lg:w-4/5 xl:h-[35vh] lg:h-[20vh] gap-[3em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
-                <div className="xl:text-[10em] lg:text-[4em] md:text-[4em] mb-3 opacity-80  ">
+              <div className="text-3xl font-semibold mb-10  xl:w-4/5 lg:w-4/5 xl:h-[35vh] lg:h-[20vh] gap-[1.5em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
+                <div className="xl:text-[8em] lg:text-[4em] md:text-[4em] mb-3 opacity-80  ">
                   3
                 </div>
 
@@ -167,8 +167,8 @@ export default function Formulation() {
               </div>
             </section>
             <section id="help" className="mt-[10em]">
-              <div className="text-3xl font-semibold mb-4  xl:w-4/5 lg:w-4/5 xl:h-[35vh] lg:h-[20vh] gap-[3em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
-                <div className="xl:text-[10em] lg:text-[4em] md:text-[4em] mb-3 opacity-80  ">
+              <div className="text-3xl font-semibold mb-4  xl:w-4/5 lg:w-4/5 xl:h-[35vh] lg:h-[20vh] gap-[1.5em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
+                <div className="xl:text-[8em] lg:text-[4em] md:text-[4em] mb-3 opacity-80  ">
                   4
                 </div>
 
@@ -186,7 +186,7 @@ export default function Formulation() {
                 <br />
                 <br />
                 Here’s a streamlined approach Acrolab offers:
-                <ul className="flex flex-col justify-between items-start list-disc h-[30vh] lg:w-4/5 mt-5 mb-[10em] cursor-pointer">
+                <ul className="flex flex-col justify-between items-start list-disc h-[30vh] lg:w-4/5 mt-5 mb-[5em] cursor-pointer">
                   <li className="hover:shadow-lg hover:scale-105 p-2">
                     Team Formation: Assist in creating a cross-functional team
                     to lead the 5S initiative.
