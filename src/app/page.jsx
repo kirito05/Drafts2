@@ -166,7 +166,7 @@ export default function Formulation() {
                 ))}
               </div>
             </section>
-            <section id="help" className="mt-[10em]">
+            <section id="help" className="xl:mt-[10em] lg:mt-[5em]">
               <div className="text-3xl font-semibold mb-4  xl:w-4/5 lg:w-4/5 xl:h-[35vh] lg:h-[20vh] gap-[1.5em] shadow-xl flex flex-row items-center justify-start pl-10 bg-gradient-to-r from-green-700 via-green-300 to-slate-700">
                 <div className="xl:text-[8em] lg:text-[4em] md:text-[4em] mb-3 opacity-80  ">
                   4
