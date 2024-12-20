@@ -147,7 +147,7 @@ export default function Formulation() {
                 </div>
               </div>
               <div className="w-4/5 text-2xl font-normal mb-10"></div>
-              <div className="grid grid-cols-4 gap-4 xl:mr-[23em] lg:mr-[14em]">
+              <div className="grid grid-cols-4 gap-4 xl:mr-[23em] lg:mr-[12em]">
                 {outcome.map((img, index) => (
                   <div key={index} className="relative">
                     <span
@@ -186,10 +186,10 @@ export default function Formulation() {
                 <br />
                 <br />
                 Here’s a streamlined approach Acrolab offers:
-                <ul className="flex flex-col justify-between items-start list-disc h-[30vh] lg:w-4/5 mt-5 mb-[5em] cursor-pointer">
+                <ul className="flex flex-col justify-between items-start list-disc h-[30vh] lg:w-4/5 mt-5 mb-[7em] cursor-pointer">
                   <li className="hover:shadow-lg hover:scale-105 p-2">
                     Team Formation: Assist in creating a cross-functional team
-                    to lead the 5S initiative.
+                    to lead the <br className="xl:inline-block lg:hidden" /> 5S initiative.
                   </li>
                   <li className="hover:shadow-lg hover:scale-105 p-2">
                     Training: Provide tailored training to ensure employees
